@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ng6d8YDGxE-1NJ4jVevxkA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="eatthismuch.com" CVScreenId="ceb32ff4-452a-4df8-9c33-a14dd698797e" CvElementArea="1382, 175, 157, 56" CvTextArea="1424, 194, 73, 25" CvTextArgument="Sign Up" CvType="Button" DesignTimeRectangle="1386, 178, 151, 50" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Sign Up' tag='A' /&gt;" Guid="cdc678f7-4835-4f82-a34e-c7c6a67359ea" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The Automatic Meal Planner - Eat This Much' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ceb32ff4-452a-4df8-9c33-a14dd698797e" CvTextArea="1360, 242, 200, 21" CvTextArgument="Already a member? Sign in" CvType="Text" DesignTimeRectangle="1363, 238, 197, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Already a member? Sign in' class='svelte-mfnjyy' tag='A' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Already a member? Sign in' /&gt;" Guid="ae6a641d-cb8e-494e-8a7f-af0b9a00e96d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0ac8d6bd2065eca8d7ebff9cef1bb099.png" xmlns="">0WDY0wIYQskywDLc1FCNjtQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScroll</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
